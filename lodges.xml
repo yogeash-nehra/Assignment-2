@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lodges
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <!-- Lodge 1 -->
+   <Lodge>
+
+   </Lodge>
+   <!-- Lodge 2 -->
+   <Lodge>
+    
+   </Lodge>   
+   <!-- Lodge 3 -->
+   <Lodge>
+    
+   </Lodge>   
+   <!-- Lodge 4 -->
+   <Lodge>
+    
+   </Lodge>   
+   <!-- Lodge 5 -->
+   <Lodge>
+    
+   </Lodge>
+</lodges>
